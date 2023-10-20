@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+body{
+    background-color: deeppink;
+    font-family: 'Tektur', cursive;
+
+}
+.text-block{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+.text-block-item1{
+    width: 28%;
+    height:250px ;
+    border-radius:20% ;
+    /*border: 1px solid black;*/
+    border-top: 5px solid orangered;
+    background-color: white;
+
+    /*border-top-color: orangered;*/
+
+    border-top-left-radius:7% ;
+    padding: 20px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    /*box-shadow: 10px 10px 20px gray ;*/
+
+
+}
+.text-block-item2{
+    width: 28%;
+    height:250px ;
+    border-radius:20% ;
+    /*border: 1px solid black;*/
+    border-top: 5px solid darkgreen;
+    background-color: white;
+
+    /*border-top-color: orangered;*/
+
+    border-top-left-radius:7% ;
+    padding: 15px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    /*box-shadow: 10px 10px 20px gray ;*/
+
+   /* background-color: white;
+    width: 28%;
+    height:250px ;
+    border: 5px solid white;
+    border-radius:20% ;
+    border-top-left-radius:7% ;
+    padding:15px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    box-shadow: 10px 10px 20px gray ;
+    border-top: 5px solid darkgreen;*/
+
+}
+.text-block-item3{
+    width: 28%;
+    height:250px ;
+    border-radius:20% ;
+    /*border: 1px solid black;*/
+    border-top: 5px solid darkorange;
+    background-color: white;
+
+    /*border-top-color: orangered;*/
+
+    border-top-left-radius:7% ;
+    padding: 15px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    /*box-shadow: 10px 10px 20px gray ;*/
+
+    /*background-color: white;
+    width: 28%;
+    height:250px ;
+    border: 5px solid white;
+    border-radius:20% ;
+    border-top-left-radius:7% ;
+    padding:10px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    border-top-color: darkorange;
+    box-shadow: 10px 10px 20px gray ;*/
+}
+.text-block-item4{
+    width: 28%;
+    height:250px ;
+    border-radius:20% ;
+    /*border: 1px solid black;*/
+    border-top: 5px solid lightblue;
+    background-color: white;
+
+    /*border-top-color: orangered;*/
+
+    border-top-left-radius:7% ;
+    padding: 15px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    /*box-shadow: 10px 10px 20px gray ;*/
+
+    /*background-color: white;
+    width: 28%;
+    height:250px ;
+    border: 5px solid white;
+    border-radius:20% ;
+    border-top-left-radius:7% ;
+    padding:30px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    border-top-color:lightskyblue;
+    box-shadow: 10px 10px 20px gray ;*/
+
+
+}
+.text-block-item5{
+    width: 28%;
+    height:250px ;
+    border-radius:20% ;
+    /*border: 1px solid black;*/
+    border-top: 5px solid yellow;
+    background-color: white;
+
+    /*border-top-color: orangered;*/
+
+    border-top-left-radius:7% ;
+    padding: 15px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    /*box-shadow: 10px 10px 20px gray ;*/
+
+    /*background-color: white;
+    width: 28%;
+    height:250px ;
+    border: 5px solid white;
+    border-radius:20% ;
+    border-top-left-radius:7% ;
+    padding:23px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    border-top-color: yellow;
+    box-shadow: 10px 10px 20px gray ;*/
+
+
+
+}
+.text-block-item6{
+    width: 28%;
+    height:250px ;
+    border-radius:20% ;
+    /*border: 1px solid black;*/
+    border-top: 5px solid blue;
+    background-color: white;
+
+    /*border-top-color: orangered;*/
+
+    border-top-left-radius:7% ;
+    padding: 15px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    /*box-shadow: 10px 10px 20px gray ;*/
+
+    /*background-color: white;
+    width: 28%;
+    height:250px ;
+    border: 5px solid white;
+    border-radius:20% ;
+    border-top-left-radius:7% ;
+    padding:25px 10px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    float: left;
+    border-top-color: blue;
+    box-shadow: 10px 10px 20px gray ;*/
+
+}
